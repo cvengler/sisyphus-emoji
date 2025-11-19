@@ -1,0 +1,520 @@
+{
+  "metaVersion": 2,
+  "host": "icy.wyvern.rip",
+  "exportedAt": "2025-10-10T20:23:40Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "brdAlert.png",
+      "emoji": {
+        "name": "brdAlert",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdAngel.png",
+      "emoji": {
+        "name": "brdAngel",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdAngry.png",
+      "emoji": {
+        "name": "brdAngry",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdBateleur.png",
+      "emoji": {
+        "name": "brdBateleur",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdBlank.png",
+      "emoji": {
+        "name": "brdBlank",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdBlueJay.png",
+      "emoji": {
+        "name": "brdBlueJay",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdChuckle.png",
+      "emoji": {
+        "name": "brdChuckle",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdComfy.png",
+      "emoji": {
+        "name": "brdComfy",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdCool.png",
+      "emoji": {
+        "name": "brdCool",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdCrow.png",
+      "emoji": {
+        "name": "brdCrow",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdDuck.png",
+      "emoji": {
+        "name": "brdDuck",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdEagle.png",
+      "emoji": {
+        "name": "brdEagle",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdFalcon.png",
+      "emoji": {
+        "name": "brdFalcon",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdFinch.png",
+      "emoji": {
+        "name": "brdFinch",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdFlamingo.png",
+      "emoji": {
+        "name": "brdFlamingo",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdFlat.png",
+      "emoji": {
+        "name": "brdFlat",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdFront.png",
+      "emoji": {
+        "name": "brdFront",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdGoose.png",
+      "emoji": {
+        "name": "brdGoose",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdGrumpy.png",
+      "emoji": {
+        "name": "brdGrumpy",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHappy.png",
+      "emoji": {
+        "name": "brdHappy",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHawk.png",
+      "emoji": {
+        "name": "brdHawk",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHeron.png",
+      "emoji": {
+        "name": "brdHeron",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHornedOwl.png",
+      "emoji": {
+        "name": "brdHornedOwl",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHug.png",
+      "emoji": {
+        "name": "brdHug",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdHyper.png",
+      "emoji": {
+        "name": "brdHyper",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdKestrel.png",
+      "emoji": {
+        "name": "brdKestrel",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdKite.png",
+      "emoji": {
+        "name": "brdKite",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdKnife.png",
+      "emoji": {
+        "name": "brdKnife",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdLol.png",
+      "emoji": {
+        "name": "brdLol",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdMacaw.png",
+      "emoji": {
+        "name": "brdMacaw",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdNervous.png",
+      "emoji": {
+        "name": "brdNervous",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdOwl.png",
+      "emoji": {
+        "name": "brdOwl",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPat.png",
+      "emoji": {
+        "name": "brdPat",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPeafowl.png",
+      "emoji": {
+        "name": "brdPeafowl",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPeek.png",
+      "emoji": {
+        "name": "brdPeek",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPeekWingHyper.png",
+      "emoji": {
+        "name": "brdPeekWingHyper",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPeekWing.png",
+      "emoji": {
+        "name": "brdPeekWing",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPenguin.png",
+      "emoji": {
+        "name": "brdPenguin",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPigeon.png",
+      "emoji": {
+        "name": "brdPigeon",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brd.png",
+      "emoji": {
+        "name": "brd",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdPuffin.png",
+      "emoji": {
+        "name": "brdPuffin",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdRedCardinal.png",
+      "emoji": {
+        "name": "brdRedCardinal",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdRobe.png",
+      "emoji": {
+        "name": "brdRobe",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdRobin.png",
+      "emoji": {
+        "name": "brdRobin",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdRooster.png",
+      "emoji": {
+        "name": "brdRooster",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdSad.png",
+      "emoji": {
+        "name": "brdSad",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdScared.png",
+      "emoji": {
+        "name": "brdScared",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdScreamHyper.png",
+      "emoji": {
+        "name": "brdScreamHyper",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdScream.png",
+      "emoji": {
+        "name": "brdScream",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdSeagull.png",
+      "emoji": {
+        "name": "brdSeagull",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdSmol.png",
+      "emoji": {
+        "name": "brdSmol",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdStork.png",
+      "emoji": {
+        "name": "brdStork",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdThink.png",
+      "emoji": {
+        "name": "brdThink",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdTilt.png",
+      "emoji": {
+        "name": "brdTilt",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdUwu.png",
+      "emoji": {
+        "name": "brdUwu",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdVulture.png",
+      "emoji": {
+        "name": "brdVulture",
+        "category": "brd",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "brdWoodpecker.png",
+      "emoji": {
+        "name": "brdWoodpecker",
+        "category": "brd",
+        "aliases": []
+      }
+    }
+  ]
+}

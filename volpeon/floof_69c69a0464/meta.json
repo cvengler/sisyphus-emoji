@@ -1,0 +1,259 @@
+{
+  "metaVersion": 2,
+  "host": "is-a.wyvern.rip",
+  "exportedAt": "2025-07-19T14:32:18Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "floofAngry.png",
+      "emoji": {
+        "name": "floofAngry",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofBlep.png",
+      "emoji": {
+        "name": "floofBlep",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofCat.png",
+      "emoji": {
+        "name": "floofCat",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofCool.png",
+      "emoji": {
+        "name": "floofCool",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofCry.png",
+      "emoji": {
+        "name": "floofCry",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofDrool.png",
+      "emoji": {
+        "name": "floofDrool",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofHappy.png",
+      "emoji": {
+        "name": "floofHappy",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofHeart.png",
+      "emoji": {
+        "name": "floofHeart",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofInnocent.png",
+      "emoji": {
+        "name": "floofInnocent",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofLoad.png",
+      "emoji": {
+        "name": "floofLoad",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofLol.png",
+      "emoji": {
+        "name": "floofLol",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofLurk.png",
+      "emoji": {
+        "name": "floofLurk",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofMischief.png",
+      "emoji": {
+        "name": "floofMischief",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofMug.png",
+      "emoji": {
+        "name": "floofMug",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofNervous.png",
+      "emoji": {
+        "name": "floofNervous",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofNom.png",
+      "emoji": {
+        "name": "floofNom",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofOwO.png",
+      "emoji": {
+        "name": "floofOwO",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofPat.png",
+      "emoji": {
+        "name": "floofPat",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofPeek.png",
+      "emoji": {
+        "name": "floofPeek",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofPlead.png",
+      "emoji": {
+        "name": "floofPlead",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floof.png",
+      "emoji": {
+        "name": "floof",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofSad.png",
+      "emoji": {
+        "name": "floofSad",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofScared.png",
+      "emoji": {
+        "name": "floofScared",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofSmug.png",
+      "emoji": {
+        "name": "floofSmug",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofTeehee.png",
+      "emoji": {
+        "name": "floofTeehee",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofTired.png",
+      "emoji": {
+        "name": "floofTired",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofWhat.png",
+      "emoji": {
+        "name": "floofWhat",
+        "category": "floof",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "floofWoozy.png",
+      "emoji": {
+        "name": "floofWoozy",
+        "category": "floof",
+        "aliases": []
+      }
+    }
+  ]
+}

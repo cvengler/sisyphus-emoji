@@ -1,0 +1,187 @@
+{
+  "metaVersion": 2,
+  "host": "is-a.wyvern.rip",
+  "exportedAt": "2024-09-16T07:03:03Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "wvrnAlert.png",
+      "emoji": {
+        "name": "wvrnAlert",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnAngel.png",
+      "emoji": {
+        "name": "wvrnAngel",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnBlush.png",
+      "emoji": {
+        "name": "wvrnBlush",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnBox.png",
+      "emoji": {
+        "name": "wvrnBox",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnCofe.png",
+      "emoji": {
+        "name": "wvrnCofe",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnCry.png",
+      "emoji": {
+        "name": "wvrnCry",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnCute.png",
+      "emoji": {
+        "name": "wvrnCute",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnDizzy.png",
+      "emoji": {
+        "name": "wvrnDizzy",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnDrink.png",
+      "emoji": {
+        "name": "wvrnDrink",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnFlat.png",
+      "emoji": {
+        "name": "wvrnFlat",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnFlight.png",
+      "emoji": {
+        "name": "wvrnFlight",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnHug.png",
+      "emoji": {
+        "name": "wvrnHug",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnKnife.png",
+      "emoji": {
+        "name": "wvrnKnife",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnMlem.png",
+      "emoji": {
+        "name": "wvrnMlem",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnNom.png",
+      "emoji": {
+        "name": "wvrnNom",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrn.png",
+      "emoji": {
+        "name": "wvrn",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnScream.png",
+      "emoji": {
+        "name": "wvrnScream",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnSmol.png",
+      "emoji": {
+        "name": "wvrnSmol",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnTiltAlt.png",
+      "emoji": {
+        "name": "wvrnTiltAlt",
+        "category": "wvrn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wvrnTilt.png",
+      "emoji": {
+        "name": "wvrnTilt",
+        "category": "wvrn",
+        "aliases": []
+      }
+    }
+  ]
+}

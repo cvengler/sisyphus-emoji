@@ -1,0 +1,277 @@
+{
+  "metaVersion": 2,
+  "host": "icy.wyvern.rip",
+  "exportedAt": "2025-09-05T09:55:11Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "areonNAlert.png",
+      "emoji": {
+        "name": "areonNAlert",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNCall.png",
+      "emoji": {
+        "name": "areonNCall",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNEepy.png",
+      "emoji": {
+        "name": "areonNEepy",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNFlat.png",
+      "emoji": {
+        "name": "areonNFlat",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNHug.png",
+      "emoji": {
+        "name": "areonNHug",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNMlem.png",
+      "emoji": {
+        "name": "areonNMlem",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNMug.png",
+      "emoji": {
+        "name": "areonNMug",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNNervous.png",
+      "emoji": {
+        "name": "areonNNervous",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNNuzzle.png",
+      "emoji": {
+        "name": "areonNNuzzle",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNPat.png",
+      "emoji": {
+        "name": "areonNPat",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonN.png",
+      "emoji": {
+        "name": "areonN",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNProcess.png",
+      "emoji": {
+        "name": "areonNProcess",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNSip.png",
+      "emoji": {
+        "name": "areonNSip",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNSmol.png",
+      "emoji": {
+        "name": "areonNSmol",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonNThink.png",
+      "emoji": {
+        "name": "areonNThink",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVAlert.png",
+      "emoji": {
+        "name": "areonVAlert",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVCall.png",
+      "emoji": {
+        "name": "areonVCall",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVEepy.png",
+      "emoji": {
+        "name": "areonVEepy",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVFlat.png",
+      "emoji": {
+        "name": "areonVFlat",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVHug.png",
+      "emoji": {
+        "name": "areonVHug",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVMlem.png",
+      "emoji": {
+        "name": "areonVMlem",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVMug.png",
+      "emoji": {
+        "name": "areonVMug",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVNervous.png",
+      "emoji": {
+        "name": "areonVNervous",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVNuzzle.png",
+      "emoji": {
+        "name": "areonVNuzzle",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVPat.png",
+      "emoji": {
+        "name": "areonVPat",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonV.png",
+      "emoji": {
+        "name": "areonV",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVProcess.png",
+      "emoji": {
+        "name": "areonVProcess",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVSip.png",
+      "emoji": {
+        "name": "areonVSip",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVSmol.png",
+      "emoji": {
+        "name": "areonVSmol",
+        "category": "areon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "areonVThink.png",
+      "emoji": {
+        "name": "areonVThink",
+        "category": "areon",
+        "aliases": []
+      }
+    }
+  ]
+}
